@@ -11,7 +11,7 @@ public class ApplicationDB {
 	// Database connection parameters
 	private static final String DB_URL = "jdbc:mysql://localhost:3306/trains";
 	private static final String DB_USER = "root";
-	private static final String DB_PASSWORD = "JWYT7QUd9vjT5qhVLi2N2FuX"; // Change this to your MySQL password
+	private static final String DB_PASSWORD = "JWYT7QUd9vjT5qhVLi2N2FuX"; // edit password as needed
 	private static final Logger LOGGER = Logger.getLogger(ApplicationDB.class.getName());
 	
 	// Constructor
